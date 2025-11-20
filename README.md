@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Nakoya Wilson](https://aniketpatil.vercel.app/)
-- Frontend Mentor - [@nakoyawilson](https://www.frontendmentor.io/profile/anik8patil)
-- LinkedIn - [@nakoyawilson](https://www.linkedin.com/in/anik8patil/)
+- Website - [Aniket Patil](https://aniketpatil.vercel.app/)
+- Frontend Mentor - [@anik8patil](https://www.frontendmentor.io/profile/anik8patil)
+- LinkedIn - [@anik8patil](https://www.linkedin.com/in/anik8patil/)
